@@ -16,6 +16,6 @@
 #### 3. Test Accuracy
 <img width="1116" alt="t" src="https://user-images.githubusercontent.com/50826959/172969507-e443d5a4-b43f-4622-9914-16060f9b44c1.png">
 #### 4. Images and corresponding probability that predicted Right 
-![right](https://user-images.githubusercontent.com/55013577/81248944-7bfe3300-9058-11ea-88cd-2cfb456c8945.png)
+<img width="458" alt="Снимок экрана 2022-06-09 в 19 42 48" src="https://user-images.githubusercontent.com/50826959/172969673-af2b776f-1a52-4859-8f76-89d677f584e4.png">
 #### 5. Images and corresponding probability that predicted Wrong
 ![wrong](https://user-images.githubusercontent.com/55013577/81249056-b071ef00-9058-11ea-9d62-36a217a19906.png)

@@ -14,7 +14,7 @@
 #### 2. Training with Training loss 
 <img width="1118" alt="s" src="https://user-images.githubusercontent.com/50826959/172969362-c42b3dcb-4fd9-4e86-b23e-81a114749a20.png">
 #### 3. Test Accuracy
-![Test_acc](https://user-images.githubusercontent.com/55013577/81248920-6f79da80-9058-11ea-897b-34ab7e0d1743.png)
+<img width="1116" alt="t" src="https://user-images.githubusercontent.com/50826959/172969507-e443d5a4-b43f-4622-9914-16060f9b44c1.png">
 #### 4. Images and corresponding probability that predicted Right 
 ![right](https://user-images.githubusercontent.com/55013577/81248944-7bfe3300-9058-11ea-88cd-2cfb456c8945.png)
 #### 5. Images and corresponding probability that predicted Wrong

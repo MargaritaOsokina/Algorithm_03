@@ -10,4 +10,4 @@
 
 ### For Example
 #### 1. Model 
-[![Uploading first.png…]()](https://github.com/MargaritaOsokina/Algorithm_03/issues/1#issue-1266228649)
+<img width="784" alt="first" src="https://user-images.githubusercontent.com/50826959/172872134-2dd5977e-9ff5-412c-921c-eec04a8e8dd1.png">
